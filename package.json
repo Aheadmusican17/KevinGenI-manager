@@ -1,0 +1,15 @@
+{
+  "name": "Kevin Gaming en ICT discord bot",
+  "version": "2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "let kevin = /home/main/JS/Kevin/",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
