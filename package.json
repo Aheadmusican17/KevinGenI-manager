@@ -1,6 +1,7 @@
-"scripts": {
+{
+   "scripts": 
    "start": "node index.js"
-}
+},
 {
   "name": "KevinGenImanager",
   "version": "2.0",
